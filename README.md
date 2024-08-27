@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm vijayabharathy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayabharathy16&label=Profile%20views&color=0e75b6&style=flat" alt="vijayabharathy16" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js and node Js**
 
 - 💬 Ask me about **Android ,MERN**
 
