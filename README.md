@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **vijayabharathy160799@gmail.com** For Collaboration/Projec
 - 🤔 **I’m looking for help with:** MERN Stack projects. 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vijayabharathy160799@gmail.com
-- 😄 **Pronouns:** call me vijay
+- 😄 **Pronouns:** Call me vijay
 - ⚡ **Fun fact:** I am very funny guy
 
 ## 🔗 I am a MERN Stack Developer. 😊😊
