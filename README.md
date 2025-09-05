@@ -4,13 +4,13 @@
 Email Me 👉 ✉️ **vijayabharathy160799@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently Looking for :** MERN Stack, Front-End Developer role.
-- 🌱 **I’m currently learning:** Full Stack Developement using MERN
-- 👯 **I’m looking to collaborate on:** MERN stack projects to build scalable web apps, RESTful APIs, and admin dashboards
-- 🤔 **I’m looking for help with:** MERN Stack projects. 
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 🌱 **I’m currently learning:** Full Stack Developement using MERN.
+- 👯 **I’m looking to collaborate on:** MERN stack projects to build scalable web apps, RESTful APIs, and admin dashboards.
+- 🤔 **I’m looking for help with:** MERN Stack relanted projects. 
+- 💬 **Ask me about:** Collaboration, Tech Support.
 - 📫 **How to reach me:** vijayabharathy160799@gmail.com
-- 😄 **Pronouns:** Call me vijay
-- ⚡ **Fun fact:** I am very funny guy
+- 😄 **Pronouns:** Call me vijay.
+- ⚡ **Fun fact:** I am very funny guy.
 
 ## 🔗 I am a MERN Stack Developer. 😊😊
 
